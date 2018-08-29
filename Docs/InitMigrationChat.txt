@@ -1,0 +1,3 @@
+
+            migrationBuilder.Sql("inset into Group (Identification, TypeGroup) values('"+
+                DataInit.PublicGroup + "',"+ (int)TypeGroup.PublicGroup + ")");

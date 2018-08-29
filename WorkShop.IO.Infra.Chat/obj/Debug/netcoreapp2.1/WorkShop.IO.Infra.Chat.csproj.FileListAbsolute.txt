@@ -1,0 +1,16 @@
+C:\GitCore\WorkShop\WorkShop.IO.Infra.Chat\bin\Debug\netcoreapp2.1\WorkShop.IO.Infra.Chat.deps.json
+C:\GitCore\WorkShop\WorkShop.IO.Infra.Chat\bin\Debug\netcoreapp2.1\WorkShop.IO.Infra.Chat.runtimeconfig.json
+C:\GitCore\WorkShop\WorkShop.IO.Infra.Chat\bin\Debug\netcoreapp2.1\WorkShop.IO.Infra.Chat.runtimeconfig.dev.json
+C:\GitCore\WorkShop\WorkShop.IO.Infra.Chat\bin\Debug\netcoreapp2.1\WorkShop.IO.Infra.Chat.dll
+C:\GitCore\WorkShop\WorkShop.IO.Infra.Chat\bin\Debug\netcoreapp2.1\WorkShop.IO.Infra.Chat.pdb
+C:\GitCore\WorkShop\WorkShop.IO.Infra.Chat\bin\Debug\netcoreapp2.1\WorkShop.Domain.Chat.dll
+C:\GitCore\WorkShop\WorkShop.IO.Infra.Chat\bin\Debug\netcoreapp2.1\WorkShop.Domain.Core.dll
+C:\GitCore\WorkShop\WorkShop.IO.Infra.Chat\bin\Debug\netcoreapp2.1\WorkShop.Domain.Chat.pdb
+C:\GitCore\WorkShop\WorkShop.IO.Infra.Chat\bin\Debug\netcoreapp2.1\WorkShop.Domain.Core.pdb
+C:\GitCore\WorkShop\WorkShop.IO.Infra.Chat\obj\Debug\netcoreapp2.1\WorkShop.IO.Infra.Chat.csprojAssemblyReference.cache
+C:\GitCore\WorkShop\WorkShop.IO.Infra.Chat\obj\Debug\netcoreapp2.1\WorkShop.IO.Infra.Chat.csproj.CoreCompileInputs.cache
+C:\GitCore\WorkShop\WorkShop.IO.Infra.Chat\obj\Debug\netcoreapp2.1\WorkShop.IO.Infra.Chat.AssemblyInfoInputs.cache
+C:\GitCore\WorkShop\WorkShop.IO.Infra.Chat\obj\Debug\netcoreapp2.1\WorkShop.IO.Infra.Chat.AssemblyInfo.cs
+C:\GitCore\WorkShop\WorkShop.IO.Infra.Chat\obj\Debug\netcoreapp2.1\WorkShop.IO.Infra.Chat.csproj.CopyComplete
+C:\GitCore\WorkShop\WorkShop.IO.Infra.Chat\obj\Debug\netcoreapp2.1\WorkShop.IO.Infra.Chat.dll
+C:\GitCore\WorkShop\WorkShop.IO.Infra.Chat\obj\Debug\netcoreapp2.1\WorkShop.IO.Infra.Chat.pdb

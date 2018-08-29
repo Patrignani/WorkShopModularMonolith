@@ -1,0 +1,44 @@
+dotnet ef --project WorkShop.IO.Infra.Chat --startup-project WorkShop.App migrations add init --context ChatContext
+
+dotnet ef --project WorkShop.IO.Infra.Client --startup-project WorkShop.App migrations add init --context UserContext
+
+MAIS DE UM CONTEXT
+dotnet ef --project WorkShop.IO.Infra.Client --startup-project WorkShop.App database update --context UserContext
+
+dotnet ef --project WorkShop.IO.Infra.Chat --startup-project WorkShop.App database update --context ChatContext
+
+
+  --Nova class 
+dotnet new classlib -n democlass -o democlass -f netcoreapp2.1
+
+--vincular a solution
+dotnet sln ProjectModel.sln add EP.ProjectModel.mvc/EP.ProjectModel.mvc.csproj
+
+--Adicionar pacotes
+dotnet add package
+
+dotnet add package [pack] --version [version]
+
+dotnet add package Microsoft.AspNetCore.Identity 
+
+dotnet add app/app.csproj reference lib/lib.csproj
+
+dotnet remove package [pack]
+
+--Renomear 
+
+mv NewTask/Program.cs NewTask/NewTask.cs
+
+--Ef core
+
+dotnet ef  --project Module.OS.Data --startup-project Module.OS  migrations add init --context DataContext
+
+dotnet ef  --project Module.OS.Data --startup-project Module.OS database update
+
+dotnet ef  --project [Project.Ef.Core] --startup-project [Project.Startup]  migrations add init --context DataContext
+
+dotnet ef  --project [Project.Ef.Core] --startup-project [Project.Startup] database update
+
+dotnet ef migrations add InitialCreate
+
+dotnet ef database update
